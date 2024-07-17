@@ -1,5 +1,5 @@
 
-# Attacking Web Applications with Ffuf - Cheat Sheet
+# Ffuf - Cheat Sheet
 
 ## Ffuf Commands
 
