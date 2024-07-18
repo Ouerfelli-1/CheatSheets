@@ -1,4 +1,4 @@
-# Ffuf - Cheat Sheet
+# Misc - Cheat Sheet
 
 ## General Commands
 
