@@ -1,6 +1,6 @@
 # Ffuf - Cheat Sheet
 
-### General Commands
+## General Commands
 
 ```sh
 echo STRING | Base64 
