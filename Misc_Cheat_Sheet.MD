@@ -48,6 +48,7 @@ echo ENCODED_ROT13 | tr 'A-Za-z' 'N-ZA-Mn-za-m'
 
 [Js Beautifier](https://beautifier.io/)
 *Description:* JavaScript Beautifier
+
 [JS NICE](http://www.jsnice.org/)
 *Description:* JavaScript Beautifier
 
