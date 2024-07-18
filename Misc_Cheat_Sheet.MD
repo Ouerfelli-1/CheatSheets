@@ -47,7 +47,8 @@ echo ENCODED_ROT13 | tr 'A-Za-z' 'N-ZA-Mn-za-m'
 *Description:* JavaScript Deobfuscator/Beautifyer
 
 [Js Beautifier](https://beautifier.io/)
-[Js Beautifier](http://www.jsnice.org/)
+*Description:* JavaScript Beautifier
+[JS NICE](http://www.jsnice.org/)
 *Description:* JavaScript Beautifier
 
 
